@@ -61,7 +61,7 @@ Telegram bot to Banall bot.
 
 ## Support
 
-𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :- [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://t.me/BANNA_XD)
+𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :- [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://t.me/ABOUT_BANNA_XD)
 
 𝐆𝐑𝐎𝐔𝐏 :- [𝐆𝐑𝐎𝐔𝐏 𝐒𝐔𝐏𝐏𝐎𝐑𝐓](https://t.me/LOVE_BIRDS_123)
 
