@@ -1,8 +1,8 @@
 {
-    "name": "Ban All Bot",
-    "description": "https://telegra.ph/file/1f63de6e3ce65ef6b9f00.jpg",
-    "repository": "https://github.com/MrRizoel/BanAllBot",
-    "logo": "",
+    "name": "Aaru Ban All Bot",
+    "description": "@BANNA_XD"
+    "repository": "https://github.com/BANNA-XD143/BANAll",
+    "logo": "https://telegra.ph//file/659cfc8b3e46c3e140bef.jpg",
     "keywords": [
         "python",
         "telegram"
