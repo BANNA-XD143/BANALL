@@ -1,9 +1,9 @@
-# ❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °
+# ❛-𝐌𝐈𝐒𝐒'𝐀𝐀𝐑𝐔 🚬 𝐐𝐔𝐄𝐄𝐍-𝐱𝐃 °
 
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/AARAVXD143"><img src="https://telegra.ph/file/eaa1c3f8fc5a0b6605ee3.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/AARAVXD143"><img src="https://telegra.ph//file/659cfc8b3e46c3e140bef.jpg" width="2000"></a></p>
 
 Telegram bot to Banall bot.
 
