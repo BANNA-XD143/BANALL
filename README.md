@@ -78,6 +78,6 @@ Telegram bot to Banall bot.
 
 # ℂℝ𝔼𝔻𝕀𝕋𝔼 
 
-* [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://github.com/BANNA_XD)
+* [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °](https://t.me/BANNA_XD)
 
 
